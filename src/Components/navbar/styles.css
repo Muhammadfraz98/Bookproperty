@@ -1,0 +1,34 @@
+.navbar{
+    margin-top: 40px !important;
+    position:  fixed !important;
+    width: 100% !important;
+    height: 83px !important;
+    left: 0px !important;
+    top: 0px !important;
+    background: #FFFFFF !important;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.button-group{
+    display: flex;
+    background-color: #F7F7F7;
+    border-radius: 8px;
+}
+
+.css-1a4cg4j-MuiButtonBase-root-MuiTab-root{
+    border-radius: 5px !important;
+    width: 70px !important;
+    height: 28px !important;
+    text-transform: capitalize !important;
+}
+.css-1a4cg4j-MuiButtonBase-root-MuiTab-root.Mui-selected .tab-span{
+    background-color: #3AB44E !important;
+    color: white !important;
+    padding: 5px;
+    border-radius: 5px;
+}
+.add-property-button{
+    background-color: #3AB44E !important;
+}

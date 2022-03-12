@@ -1,0 +1,22 @@
+.home-container{
+    margin-top: 123px;
+}
+.hero-section{
+    background:   linear-gradient(
+        rgba(0, 0, 0, 0.6),
+        rgba(0, 0, 0, 0.6)
+      ),url("../../images/hero.png") no-repeat center center;
+    height: 300px;
+    background-size: cover;
+}
+
+.hero-heading{
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.hero-subheading{
+    text-align: center;
+    color: #FFFFFF;
+}
