@@ -1,6 +1,6 @@
 .navbar{
     margin-top: 40px !important;
-    position:  fixed !important;
+    position:  absolute !important;
     width: 100% !important;
     height: 83px !important;
     left: 0px !important;

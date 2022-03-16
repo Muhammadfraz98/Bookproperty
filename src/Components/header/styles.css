@@ -1,5 +1,5 @@
 .appHeader{
-    position:  fixed !important;
+    position:  absolute !important;
     width: 100% !important;
     height: 40px !important;
     left: 0px !important;
